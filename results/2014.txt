@@ -1,152 +1,152 @@
 Interstellar	8.6	955,346
-1 - Nenokkadine	8.5	35,347
 Whiplash	8.5	416,611
+1 - Nenokkadine	8.5	35,347
 Haider	8.3	38,049
 PK	8.2	89,248
-Guardians of the Galaxy	8.1	700,262
-Gone Girl	8.1	585,377
 The Imitation Game	8.1	484,694
 Relatos salvajes	8.1	94,829
+Guardians of the Galaxy	8.1	700,262
 The Grand Budapest Hotel	8.1	488,845
-The Raid 2: Berandal	8.0	86,290
+Gone Girl	8.1	585,377
 X-Men: Days of Future Past	8.0	522,071
+The Raid 2: Berandal	8.0	86,290
 Nightcrawler	7.9	302,374
+Edge of Tomorrow	7.9	441,124
 How to Train Your Dragon 2	7.9	225,079
 Big Hero 6	7.9	286,523
 Boyhood	7.9	271,432
-Edge of Tomorrow	7.9	441,124
-The Lego Movie	7.8	250,473
 Birdman or (The Unexpected Virtue of Ignorance)	7.8	405,571
-Kingsman: The Secret Service	7.8	407,778
 Pride	7.8	36,251
+Kingsman: The Secret Service	7.8	407,778
 Captain America: The Winter Soldier	7.8	507,926
 The Fault in Our Stars	7.8	255,745
+The Lego Movie	7.8	250,473
 The Theory of Everything	7.7	273,013
-Dawn of the Planet of the Apes	7.6	322,506
-Fury	7.6	310,195
-Leviafan	7.6	32,089
 What We Do in the Shadows	7.6	72,001
+Dawn of the Planet of the Apes	7.6	322,506
+Leviafan	7.6	32,089
+Fury	7.6	310,195
+Still Alice	7.5	88,857
 Selma	7.5	62,556
 The Hobbit: The Battle of the Five Armies	7.5	361,713
-Still Alice	7.5	88,857
-Deux jours, une nuit	7.4	33,139
-Predestination	7.4	171,377
 The Judge	7.4	139,634
 Calvary	7.4	42,773
-American Sniper	7.3	331,658
+Predestination	7.4	171,377
+Deux jours, une nuit	7.4	33,139
 The Book of Life	7.3	46,671
 I Origins	7.3	78,060
 St. Vincent	7.3	75,370
-The Hundred-Foot Journey	7.3	54,390
 Chef	7.3	142,973
+The Hundred-Foot Journey	7.3	54,390
+American Sniper	7.3	331,658
 Paddington	7.2	50,295
 The Equalizer	7.2	234,663
+John Wick	7.2	260,645
+Unbroken	7.2	106,130
 Love, Rosie	7.2	71,253
 &apos;71	7.2	36,314
-Unbroken	7.2	106,130
-John Wick	7.2	260,645
-The Water Diviner	7.1	54,739
 The Drop	7.1	108,518
-22 Jump Street	7.1	263,840
 Wild	7.1	88,800
-Kill the Messenger	7.0	33,318
+The Water Diviner	7.1	54,739
+22 Jump Street	7.1	263,840
+Maleficent	7.0	256,619
+Non-Stop	7.0	203,715
 Frank	7.0	55,270
-Foxcatcher	7.0	108,644
+Hector and the Search for Happiness	7.0	32,898
 A Most Violent Year	7.0	47,086
 Million Dollar Arm	7.0	36,368
-Non-Stop	7.0	203,715
-Maleficent	7.0	256,619
-Hector and the Search for Happiness	7.0	32,898
+Kill the Messenger	7.0	33,318
+Foxcatcher	7.0	108,644
 Big Eyes	7.0	57,616
-Mr. Peabody &amp; Sherman	6.9	48,754
 It Follows	6.9	118,585
-The Skeleton Twins	6.8	31,924
+Mr. Peabody &amp; Sherman	6.9	48,754
+Draft Day	6.8	40,038
 If I Stay	6.8	86,304
+The Boxtrolls	6.8	42,272
+Veronica Mars	6.8	42,210
+The Maze Runner	6.8	317,655
 Eliza Graves	6.8	35,740
 A Most Wanted Man	6.8	58,384
-Veronica Mars	6.8	42,210
 The Babadook	6.8	118,657
-Draft Day	6.8	40,038
-The Boxtrolls	6.8	42,272
-The Maze Runner	6.8	317,655
-The Best of Me	6.7	44,773
-Divergent	6.7	346,365
-Wish I Was Here	6.7	30,077
+The Skeleton Twins	6.8	31,924
 The Guest	6.7	65,124
-Redirected	6.7	30,518
-The Amazing Spider-Man 2	6.7	325,836
-The Hunger Games: Mockingjay - Part 1	6.7	311,799
-Inherent Vice	6.7	63,899
+Wish I Was Here	6.7	30,077
 Penguins of Madagascar	6.7	61,332
+Inherent Vice	6.7	63,899
+Redirected	6.7	30,518
+Divergent	6.7	346,365
+The Hunger Games: Mockingjay - Part 1	6.7	311,799
+The Best of Me	6.7	44,773
+The Amazing Spider-Man 2	6.7	325,836
+This Is Where I Leave You	6.6	55,518
 The Interview	6.6	250,964
 Magic in the Moonlight	6.6	46,815
-This Is Where I Leave You	6.6	55,518
-Sin City: A Dame to Kill For	6.5	114,110
-The Inbetweeners 2	6.5	32,005
-The Purge: Anarchy	6.5	97,772
-The Giver	6.5	88,357
-Let&apos;s Be Cops	6.5	108,582
 Need for Speed	6.5	138,768
-Blended	6.5	89,022
+The Purge: Anarchy	6.5	97,772
+The Inbetweeners 2	6.5	32,005
 Godzilla	6.5	304,805
+The Giver	6.5	88,357
+Blended	6.5	89,022
+Let&apos;s Be Cops	6.5	108,582
 A Walk Among the Tombstones	6.5	89,552
+Sin City: A Dame to Kill For	6.5	114,110
 Two Night Stand	6.4	47,003
+Lucy	6.4	333,743
+Laggies	6.4	31,748
+The Rover	6.4	34,660
 Rio 2	6.4	59,560
 Neighbors	6.4	223,264
-Lucy	6.4	333,743
-The Rover	6.4	34,660
-Laggies	6.4	31,748
 Before I Go to Sleep	6.3	50,671
+The November Man	6.3	50,952
+Endless Love	6.3	31,996
+The Loft	6.3	35,159
+Transcendence	6.3	175,745
+Dracula Untold	6.3	140,955
 The Voices	6.3	35,973
 Horrible Bosses 2	6.3	116,997
-Transcendence	6.3	175,745
-Endless Love	6.3	31,996
-Dracula Untold	6.3	140,955
-The November Man	6.3	50,952
-The Loft	6.3	35,159
 While We&apos;re Young	6.3	31,502
+Deliver Us from Evil	6.2	55,287
 Jack Ryan: Shadow Recruit	6.2	100,220
+Night at the Museum: Secret of the Tomb	6.2	69,076
+Alexander and the Terrible, Horrible, No Good, Very Bad Day	6.2	30,431
 300: Rise of an Empire	6.2	228,413
 3 Days to Kill	6.2	70,313
+Winter&apos;s Tale	6.2	41,901
 Ride Along	6.2	77,880
-Night at the Museum: Secret of the Tomb	6.2	69,076
-Deliver Us from Evil	6.2	55,287
 RoboCop	6.2	185,034
 That Awkward Moment	6.2	78,292
-Winter&apos;s Tale	6.2	41,901
-Alexander and the Terrible, Horrible, No Good, Very Bad Day	6.2	30,431
-Aut&#xF3;mata	6.1	42,601
-The Monuments Men	6.1	103,625
-Exodus: Gods and Kings	6.1	130,686
-A Million Ways to Die in the West	6.1	138,196
-The Signal	6.1	49,232
 The Expendables 3	6.1	129,805
+Exodus: Gods and Kings	6.1	130,686
+The Monuments Men	6.1	103,625
+A Million Ways to Die in the West	6.1	138,196
 As Above, So Below	6.1	51,465
-Taken 3	6.0	136,183
-The Gambler	6.0	49,451
+Aut&#xF3;mata	6.1	42,601
+The Signal	6.1	49,232
 Walk of Shame	6.0	41,475
-Hercules	6.0	117,443
 Into the Woods	6.0	103,238
+Taken 3	6.0	136,183
 The Other Woman	6.0	106,395
+The Gambler	6.0	49,451
+Hercules	6.0	117,443
 Teenage Mutant Ninja Turtles	5.9	171,505
-The Cobbler	5.8	37,324
 Noah	5.8	202,571
+The Cobbler	5.8	37,324
 Into the Storm	5.8	54,752
-Brick Mansions	5.7	32,654
-Transformers: Age of Extinction	5.7	245,603
 Cybernatural	5.7	46,212
-Sabotage	5.7	48,205
 Dumb and Dumber To	5.7	98,860
-Vampire Academy	5.6	42,080
+Sabotage	5.7	48,205
+Transformers: Age of Extinction	5.7	245,603
+Brick Mansions	5.7	32,654
 Pompeii	5.6	85,792
+Vampire Academy	5.6	42,080
 Seventh Son	5.5	55,992
-Annabelle	5.4	84,425
 Tusk	5.4	32,156
+Annabelle	5.4	84,425
 I, Frankenstein	5.2	66,771
 Sex Tape	5.1	85,744
 Paranormal Activity: The Marked Ones	5.0	32,318
-Tammy	4.9	36,937
 God&apos;s Not Dead	4.9	32,280
+Tammy	4.9	36,937
 Ouija	4.4	32,903
 The Legend of Hercules	4.2	45,315
 Gunday	2.0	54,415

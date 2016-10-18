@@ -1,0 +1,152 @@
+Django Unchained	8.5	974,339
+Jagten	8.3	174,976
+Gangs of Wasseypur	8.3	47,985
+Kahaani	8.2	39,807
+Barfi!	8.2	55,747
+The Perks of Being a Wallflower	8.0	357,556
+Life of Pi	8.0	447,320
+The Hobbit: An Unexpected Journey	7.9	644,805
+Amour	7.9	71,436
+Silver Linings Playbook	7.8	540,720
+Wreck-It Ralph	7.8	276,482
+The Broken Circle Breakdown	7.8	30,024
+Skyfall	7.8	528,315
+Moonrise Kingdom	7.8	241,626
+Argo	7.7	458,494
+End of Watch	7.7	183,755
+Lo imposible	7.6	147,078
+En kongelig aff&#xE6;re	7.6	33,841
+Les Mis&#xE9;rables	7.6	246,667
+Disconnect	7.6	61,922
+De rouille et d&apos;os	7.5	49,535
+Cloud Atlas	7.5	288,184
+Mud	7.4	137,411
+Looper	7.4	434,457
+Lincoln	7.4	199,784
+Zero Dark Thirty	7.4	218,760
+Frances Ha	7.4	45,005
+Rise of the Guardians	7.3	125,195
+Flight	7.3	266,843
+The Place Beyond the Pines	7.3	189,855
+Beasts of the Southern Wild	7.3	71,027
+Lawless	7.3	187,804
+The Hunger Games	7.3	709,669
+Stuck in Love	7.3	65,803
+Fetih 1453	7.3	47,678
+Kon-Tiki	7.2	34,997
+Ruby Sparks	7.2	79,867
+Pitch Perfect	7.2	217,120
+The Sessions	7.2	36,645
+Brave	7.2	278,399
+21 Jump Street	7.2	414,135
+Seven Psychopaths	7.2	188,395
+Robot &amp; Frank	7.1	53,067
+The Master	7.1	107,187
+Hotel Transylvania	7.1	167,398
+People Like Us	7.1	34,617
+The Words	7.1	60,606
+Dredd	7.1	206,050
+Holy Motors	7.1	30,151
+Chronicle	7.1	206,514
+Prometheus	7.0	460,883
+The Amazing Spider-Man	7.0	456,920
+The Cabin in the Woods	7.0	282,214
+The First Time	7.0	50,733
+Jack Reacher	7.0	230,540
+ParaNorman	7.0	74,266
+Ted	7.0	477,085
+Safety Not Guaranteed	7.0	102,345
+Get the Gringo	7.0	87,579
+Frankenweenie	7.0	75,397
+The Iceman	6.9	56,473
+Madagascar 3: Europe&apos;s Most Wanted	6.9	121,013
+Hitchcock	6.9	61,157
+Men in Black 3	6.8	270,342
+Trouble with the Curve	6.8	48,528
+Safe House	6.8	168,602
+Sinister	6.8	158,762
+The Vow	6.8	148,538
+Jab Tak Hai Jaan	6.8	42,903
+The Expendables 2	6.7	249,373
+American Reunion	6.7	173,615
+Seeking a Friend for the End of the World	6.7	89,039
+Project X	6.7	158,746
+The Pirates! In an Adventure with Scientists!	6.7	37,134
+The Bourne Legacy	6.7	234,131
+The Odd Life of Timothy Green	6.6	37,835
+Arbitrage	6.6	42,101
+Ice Age: Continental Drift	6.6	147,674
+Promised Land	6.6	30,690
+Man on a Ledge	6.6	126,313
+John Carter	6.6	214,216
+Think Like a Man	6.6	35,006
+Anna Karenina	6.6	71,999
+Act of Valor	6.5	58,484
+Savages	6.5	105,267
+Step Up Revolution	6.5	45,980
+Here Comes the Boom	6.5	74,783
+The Lorax	6.5	78,950
+The Lucky One	6.5	78,477
+Safe	6.5	84,510
+Stand Up Guys	6.5	45,571
+Byzantium	6.5	32,644
+Contraband	6.5	102,771
+Premium Rush	6.5	96,146
+Underworld: Awakening	6.4	118,754
+John Dies at the End	6.4	30,327
+The Raven	6.4	73,480
+Upside Down	6.4	59,188
+The Woman in Black	6.4	141,403
+The Dictator	6.4	216,955
+Total Recall	6.3	204,432
+This Means War	6.3	149,335
+Taken 2	6.3	241,786
+Deadfall	6.3	32,883
+To Rome with Love	6.3	68,968
+Hope Springs	6.3	34,648
+Dark Shadows	6.2	201,739
+This Is 40	6.2	104,987
+Killing Them Softly	6.2	112,792
+The Campaign	6.2	107,715
+The Five-Year Engagement	6.2	79,682
+Red Lights	6.2	48,948
+Lockout	6.1	82,731
+Snow White and the Huntsman	6.1	231,894
+Magic Mike	6.1	109,967
+On the Road	6.1	33,569
+The Collection	6.1	36,521
+Rock of Ages	5.9	62,619
+Abraham Lincoln: Vampire Hunter	5.9	129,833
+Gone	5.9	35,104
+A Thousand Words	5.9	31,241
+The Possession	5.9	47,707
+Battleship	5.9	204,293
+The Tall Man	5.9	32,129
+Iron Sky	5.9	80,348
+Journey 2: The Mysterious Island	5.8	68,315
+Wrath of the Titans	5.8	154,336
+V/H/S	5.8	44,888
+The Guilt Trip	5.8	30,720
+What to Expect When You&apos;re Expecting	5.7	57,877
+Bullet to the Head	5.7	39,605
+The Watch	5.7	105,095
+That&apos;s My Boy	5.6	71,540
+Wanderlust	5.6	62,765
+House at the End of the Street	5.6	59,055
+Mirror Mirror	5.6	71,508
+The Twilight Saga: Breaking Dawn - Part 2	5.5	187,395
+Stolen	5.5	37,294
+The Man with the Iron Fists	5.4	53,811
+Red Dawn	5.4	63,021
+Resident Evil: Retribution	5.4	106,292
+One for the Money	5.3	34,538
+Spring Breakers	5.3	110,266
+Bachelorette	5.3	37,649
+Silent Hill: Revelation 3D	5.0	50,509
+Cosmopolis	5.0	38,098
+Chernobyl Diaries	5.0	53,276
+Paranormal Activity 4	4.6	51,807
+Movie 43	4.3	80,140
+LOL	4.3	45,662
+The Devil Inside	4.2	30,836
+Piranha 3DD	3.8	32,404

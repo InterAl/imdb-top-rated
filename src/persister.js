@@ -5,7 +5,7 @@ import fs from 'fs';
 
 const dirName = 'results';
 
-imdbApi({yearStart: 2013, yearEnd: 2013, minVoteCount: 30000})
+imdbApi({yearStart: 2012, yearEnd: 2016, minVoteCount: 30000})
     .then(save)
     .then('done!')
     .catch(err => console.log('failed', err));

@@ -13,6 +13,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "lodash": "^4.15.0",
+    "promise-throttle": "^0.2.0",
     "q": "^1.4.1",
     "request": "^2.75.0"
   },

@@ -2,6 +2,7 @@ import _ from 'lodash';
 import Q from 'q';
 import request from 'request';
 import cheerio from 'cheerio';
+import PromiseThrottle from 'promise-throttle';
 
 const Url = 'http://www.imdb.com/search/title?year={year}&title_type=feature&sort=moviemeter,asc&page={pageIdx}&ref_=adv_nxt';
 const PageCount = 200;
@@ -43,17 +44,21 @@ function fetchAllTitles(yearStart, yearEnd) {
     let years = {};
     let promises = [];
 
+    let promiseThrottle = new PromiseThrottle({
+        requestsPerSecond: 50,
+    });
+
+
     for (var year = yearStart; year <= yearEnd; year++) {
         let _year = year;
 
         for (var i = 1; i < PageCount; i++) {
             let _i = i;
 
-            promises.push(
-                fetchPageTitles(year, _i)
+            promises.push(promiseThrottle.add(() =>
+                fetchPageTitles(_year, _i)
                     .then(html => extractRows(html))
                     .then(rows => {
-
                         years[_year] = years[_year] || [];
 
                         years[_year] = years[_year].concat({
@@ -62,7 +67,7 @@ function fetchAllTitles(yearStart, yearEnd) {
                             rows
                         });
                     })
-            );
+            ));
         }
     }
 
