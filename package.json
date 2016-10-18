@@ -11,8 +11,10 @@
     "imdb"
   ],
   "dependencies": {
+    "cheerio": "^0.22.0",
     "lodash": "^4.15.0",
-    "q": "^1.4.1"
+    "q": "^1.4.1",
+    "request": "^2.75.0"
   },
   "devDependencies": {
     "babel-cli": "^6.11.4",
