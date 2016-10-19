@@ -1,119 +1,119 @@
-Drishyam	8.7	31,586
-Baahubali: The Beginning	8.4	65,075
-Inside Out	8.3	363,496
-Star Wars: Episode VII - The Force Awakens	8.2	589,580
-Room	8.2	178,070
-Spotlight	8.1	215,331
-The Revenant	8.1	435,121
-Bajrangi Bhaijaan	8.1	44,059
-Baby	8.1	38,070
-Mad Max: Fury Road	8.1	573,507
-The Martian	8.0	500,470
-The Hateful Eight	7.9	291,171
-Straight Outta Compton	7.9	126,110
-The Little Prince	7.8	32,846
-The Big Short	7.8	202,670
-Beasts of No Nation	7.8	44,163
-Me and Earl and the Dying Girl	7.8	81,535
-Creed	7.7	155,660
-Ex Machina	7.7	301,457
-Bridge of Spies	7.6	189,291
-Sicario	7.6	209,956
-Avengers: Age of Ultron	7.5	476,238
-Brooklyn	7.5	81,174
-Trumbo	7.5	47,906
-Mission: Impossible - Rogue Nation	7.4	239,878
-Southpaw	7.4	153,287
-Youth	7.4	44,814
-Ant-Man	7.4	328,346
-The Walk	7.4	82,607
-Woman in Gold	7.3	35,172
-Anomalisa	7.3	35,519
-Dope	7.3	59,509
-Eye in the Sky	7.3	42,408
-The Man from U.N.C.L.E.	7.3	184,826
-The Age of Adaline	7.2	98,877
-Carol	7.2	65,665
-The Intern	7.2	140,998
-Furious Seven	7.2	283,263
-Steve Jobs	7.2	100,910
-Green Room	7.1	39,309
-Far from the Madding Crowd	7.1	31,033
-The Longest Ride	7.1	52,445
-Concussion	7.1	49,936
-Everest	7.1	140,850
-The Gift	7.1	85,465
-Bone Tomahawk	7.1	37,861
-Spy	7.1	175,314
-The Lobster	7.1	88,654
-Cinderella	7.0	106,743
-Demolition	7.0	40,520
-Legend	7.0	93,577
-The Danish Girl	7.0	90,210
-Jurassic World	7.0	427,389
-Black Mass	7.0	121,938
-Mr. Holmes	6.9	44,260
-In the Heart of the Sea	6.9	78,142
-Chappie	6.9	176,683
-No Escape	6.8	51,725
-Spectre	6.8	285,129
-Man Up	6.8	33,273
-Hardcore Henry	6.8	47,045
-The Good Dinosaur	6.8	67,772
-The VVitch: A New-England Folktale	6.7	76,787
-Home	6.7	72,265
-Macbeth	6.7	36,490
-Hotel Transylvania 2	6.7	60,710
-The Wedding Ringer	6.7	54,846
-Focus	6.6	154,247
-Irrational Man	6.6	34,184
-Burnt	6.6	66,095
-Entourage	6.6	60,943
-Run All Night	6.6	77,956
-The Hunger Games: Mockingjay - Part 2	6.6	176,762
-Crimson Peak	6.6	87,252
-Joy	6.6	81,230
-Terminator Genisys	6.5	193,135
-Child 44	6.5	42,521
-The DUFF	6.5	53,146
-Pitch Perfect 2	6.5	100,656
-Tomorrowland	6.5	131,987
-The Night Before	6.5	34,691
-Self/less	6.5	60,433
-Goosebumps	6.4	50,802
-Project Almanac	6.4	58,996
-Paper Towns	6.4	66,337
-Minions	6.4	147,435
-Ted 2	6.4	122,683
-Maze Runner: The Scorch Trials	6.4	144,874
-True Story	6.3	38,537
-Insurgent	6.3	159,393
-Trainwreck	6.3	98,049
-Krampus	6.2	32,284
-The Visit	6.2	69,739
-Get Hard	6.1	88,251
-Daddy&apos;s Home	6.1	58,826
-Insidious: Chapter 3	6.1	56,850
-American Ultra	6.1	57,999
-San Andreas	6.1	151,518
-Vacation	6.1	69,023
-The SpongeBob Movie: Sponge Out of Water	6.0	35,097
-The Last Witch Hunter	6.0	62,445
-Sisters	6.0	43,321
-Victor Frankenstein	6.0	31,763
-Pan	5.8	42,905
-Hitman: Agent 47	5.7	64,983
-Magic Mike XXL	5.7	39,649
-Pixels	5.6	92,795
-Maggie	5.6	31,227
-Wild Card	5.6	37,484
-Mortdecai	5.5	48,570
-Blackhat	5.4	40,092
-Jupiter Ascending	5.4	142,290
-Aloha	5.4	41,094
-Point Break	5.3	37,952
-Hot Pursuit	5.1	36,070
-Poltergeist	5.0	42,911
-Knock Knock	4.9	46,389
-Fantastic Four	4.3	113,977
-Fifty Shades of Grey	4.1	223,846
+Drishyam	8.7	31,593
+Baahubali: The Beginning	8.4	65,077
+Inside Out	8.3	363,603
+Room	8.2	178,202
+Star Wars: Episode VII - The Force Awakens	8.2	589,718
+Baby	8.1	38,073
+Mad Max: Fury Road	8.1	573,621
+The Revenant	8.1	435,334
+Bajrangi Bhaijaan	8.1	44,065
+Spotlight	8.1	215,468
+The Martian	8.0	500,615
+Straight Outta Compton	7.9	126,147
+The Hateful Eight	7.9	291,284
+Beasts of No Nation	7.8	44,178
+The Big Short	7.8	202,800
+Me and Earl and the Dying Girl	7.8	81,559
+The Little Prince	7.8	32,885
+Ex Machina	7.7	301,555
+Creed	7.7	155,716
+Sicario	7.6	210,065
+Bridge of Spies	7.6	189,354
+Brooklyn	7.5	81,214
+Trumbo	7.5	47,932
+Avengers: Age of Ultron	7.5	476,329
+Southpaw	7.4	153,327
+Ant-Man	7.4	328,439
+Mission: Impossible - Rogue Nation	7.4	239,938
+Youth	7.4	44,838
+The Walk	7.4	82,631
+Anomalisa	7.3	35,544
+Eye in the Sky	7.3	42,453
+Woman in Gold	7.3	35,183
+Dope	7.3	59,526
+The Man from U.N.C.L.E.	7.3	184,882
+Steve Jobs	7.2	100,957
+Carol	7.2	65,701
+Furious Seven	7.2	283,301
+The Age of Adaline	7.2	98,917
+The Intern	7.2	141,052
+The Longest Ride	7.1	52,465
+Spy	7.1	175,339
+Everest	7.1	140,881
+The Lobster	7.1	88,715
+Concussion	7.1	49,968
+Bone Tomahawk	7.1	37,883
+Far from the Madding Crowd	7.1	31,041
+Green Room	7.1	39,394
+The Gift	7.1	85,506
+Black Mass	7.0	121,976
+Cinderella	7.0	106,771
+The Danish Girl	7.0	90,250
+Jurassic World	7.0	427,457
+Demolition	7.0	40,588
+Legend	7.0	93,619
+Mr. Holmes	6.9	44,271
+In the Heart of the Sea	6.9	78,186
+Chappie	6.9	176,712
+No Escape	6.8	51,743
+Hardcore Henry	6.8	47,100
+Man Up	6.8	33,282
+The Good Dinosaur	6.8	67,803
+Spectre	6.8	285,191
+Hotel Transylvania 2	6.7	60,742
+Home	6.7	72,279
+The Wedding Ringer	6.7	54,860
+Macbeth	6.7	36,509
+The VVitch: A New-England Folktale	6.7	76,875
+Crimson Peak	6.6	87,296
+Run All Night	6.6	77,964
+The Hunger Games: Mockingjay - Part 2	6.6	176,840
+Focus	6.6	154,284
+Joy	6.6	81,318
+Burnt	6.6	66,123
+Entourage	6.6	60,957
+Irrational Man	6.6	34,206
+Child 44	6.5	42,538
+Pitch Perfect 2	6.5	100,676
+Terminator Genisys	6.5	193,156
+The DUFF	6.5	53,165
+The Night Before	6.5	34,703
+Self/less	6.5	60,455
+Tomorrowland	6.5	132,002
+Ted 2	6.4	122,715
+Maze Runner: The Scorch Trials	6.4	144,917
+Paper Towns	6.4	66,350
+Project Almanac	6.4	59,011
+Minions	6.4	147,471
+Goosebumps	6.4	50,817
+Trainwreck	6.3	98,076
+Insurgent	6.3	159,423
+True Story	6.3	38,550
+Krampus	6.2	32,312
+The Visit	6.2	69,770
+Vacation	6.1	69,035
+American Ultra	6.1	58,023
+San Andreas	6.1	151,543
+Daddy&apos;s Home	6.1	58,851
+Insidious: Chapter 3	6.1	56,869
+Get Hard	6.1	88,264
+The Last Witch Hunter	6.0	62,478
+Sisters	6.0	43,338
+The SpongeBob Movie: Sponge Out of Water	6.0	35,104
+Victor Frankenstein	6.0	31,787
+Pan	5.8	42,925
+Magic Mike XXL	5.7	39,659
+Hitman: Agent 47	5.7	65,003
+Wild Card	5.6	37,490
+Maggie	5.6	31,234
+Pixels	5.6	92,808
+Mortdecai	5.5	48,578
+Aloha	5.4	41,103
+Blackhat	5.4	40,108
+Jupiter Ascending	5.4	142,309
+Point Break	5.3	37,974
+Hot Pursuit	5.1	36,075
+Poltergeist	5.0	42,920
+Knock Knock	4.9	46,426
+Fantastic Four	4.3	113,997
+Fifty Shades of Grey	4.1	223,879

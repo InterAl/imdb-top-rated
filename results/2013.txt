@@ -1,165 +1,165 @@
-Vishwaroopam	8.6	35,382
-Queen	8.4	42,281
-Bhaag Milkha Bhaag	8.3	42,662
-The Wolf of Wall Street	8.2	800,736
-12 Years a Slave	8.1	449,699
-Prisoners	8.1	393,990
-Rush	8.1	319,044
-Short Term 12	8.0	57,169
-Dallas Buyers Club	8.0	332,766
-Her	8.0	363,346
-Special Chabbis	8.0	34,645
-Captain Phillips	7.9	328,443
-Le pass&#xE9;	7.9	33,803
-Before Midnight	7.9	97,516
-The Hobbit: The Desolation of Smaug	7.9	490,741
-La migliore offerta	7.8	71,580
-Star Trek Into Darkness	7.8	402,091
-La vie d&apos;Ad&#xE8;le - Chapitres 1 et 2	7.8	95,011
-About Time	7.8	207,163
-Kaze tachinu	7.8	44,846
-Dabba	7.8	31,713
-Gravity	7.8	591,361
-Nebraska	7.7	92,156
-La grande bellezza	7.7	56,958
-Lone Survivor	7.6	207,602
-Frozen	7.6	428,210
-The Book Thief	7.6	100,513
-Philomena	7.6	77,155
-The Hunger Games: Catching Fire	7.6	505,024
-Fruitvale Station	7.5	55,059
-Saving Mr. Banks	7.5	119,483
-The Conjuring	7.5	309,547
-Despicable Me 2	7.5	291,108
-42	7.5	67,223
-Begin Again	7.4	102,878
-Starred Up	7.4	32,176
-Ida	7.4	35,708
-The Way Way Back	7.4	117,411
-Inside Llewyn Davis	7.4	98,900
-The Secret Life of Walter Mitty	7.3	239,489
-Now You See Me	7.3	464,174
-The Croods	7.3	152,812
-American Hustle	7.3	362,778
-August: Osage County	7.3	68,885
-Only Lovers Left Alive	7.3	62,667
-Monsters University	7.3	239,316
-Blue Jasmine	7.3	152,572
-The Great Gatsby	7.3	368,293
-The Kings of Summer	7.2	62,110
-The Butler	7.2	88,895
-Coherence	7.2	56,934
-Iron Man Three	7.2	565,145
-Blue Ruin	7.1	44,448
-Locke	7.1	93,353
-Side Effects	7.1	149,890
-Enough Said	7.1	49,847
-The Spectacular Now	7.1	108,143
-Man of Steel	7.1	557,864
-Filth	7.1	75,018
-Furious 6	7.1	304,610
-Thor: The Dark World	7.1	420,949
-Trance	7.0	93,578
-World War Z	7.0	471,871
-Snowpiercer	7.0	185,660
-The World&apos;s End	7.0	189,053
-Pacific Rim	7.0	385,764
-We&apos;re the Millers	7.0	321,345
-Nymphomaniac: Vol. I	7.0	84,044
-Oblivion	7.0	392,651
-Warm Bodies	6.9	186,885
-Joe	6.9	37,071
-Labor Day	6.9	32,451
-All Is Lost	6.9	60,378
-Enemy	6.9	98,027
-Odd Thomas	6.9	36,305
+Vishwaroopam	8.6	35,384
+Queen	8.4	42,286
+Bhaag Milkha Bhaag	8.3	42,667
+The Wolf of Wall Street	8.2	800,858
+12 Years a Slave	8.1	449,774
+Prisoners	8.1	394,058
+Rush	8.1	319,090
+Special Chabbis	8.0	34,649
+Her	8.0	363,390
+Short Term 12	8.0	57,182
+Dallas Buyers Club	8.0	332,815
+Before Midnight	7.9	97,540
+Captain Phillips	7.9	328,474
+The Hobbit: The Desolation of Smaug	7.9	490,794
+Le pass&#xE9;	7.9	33,806
+La vie d&apos;Ad&#xE8;le - Chapitres 1 et 2	7.8	95,030
+About Time	7.8	207,199
+Gravity	7.8	591,419
+La migliore offerta	7.8	71,589
+Dabba	7.8	31,715
+Star Trek Into Darkness	7.8	402,131
+Kaze tachinu	7.8	44,855
+Nebraska	7.7	92,161
+La grande bellezza	7.7	56,972
+Lone Survivor	7.6	207,638
+Philomena	7.6	77,167
+The Hunger Games: Catching Fire	7.6	505,069
+Frozen	7.6	428,253
+The Book Thief	7.6	100,529
+Saving Mr. Banks	7.5	119,496
+Despicable Me 2	7.5	291,132
+Fruitvale Station	7.5	55,065
+42	7.5	67,228
+The Conjuring	7.5	309,603
+The Way Way Back	7.4	117,427
+Ida	7.4	35,713
+Begin Again	7.4	102,898
+Starred Up	7.4	32,188
+Inside Llewyn Davis	7.4	98,931
+Monsters University	7.3	239,339
+Now You See Me	7.3	464,266
+August: Osage County	7.3	68,893
+The Croods	7.3	152,827
+Only Lovers Left Alive	7.3	62,682
+American Hustle	7.3	362,809
+Blue Jasmine	7.3	152,599
+The Secret Life of Walter Mitty	7.3	239,517
+The Great Gatsby	7.3	368,330
+The Kings of Summer	7.2	62,112
+Iron Man Three	7.2	565,199
+Coherence	7.2	56,965
+The Butler	7.2	88,907
+Filth	7.1	75,027
+Enough Said	7.1	49,849
+Man of Steel	7.1	557,904
+Side Effects	7.1	149,895
+Blue Ruin	7.1	44,460
+Locke	7.1	93,376
+Thor: The Dark World	7.1	421,000
+The Spectacular Now	7.1	108,164
+Furious 6	7.1	304,628
+Pacific Rim	7.0	385,793
+We&apos;re the Millers	7.0	321,376
+The World&apos;s End	7.0	189,089
+Oblivion	7.0	392,694
+Trance	7.0	93,585
+Nymphomaniac: Vol. I	7.0	84,066
+World War Z	7.0	471,922
+Snowpiercer	7.0	185,688
+Enemy	6.9	98,062
+Labor Day	6.9	32,455
+Odd Thomas	6.9	36,311
+Warm Bodies	6.9	186,894
 The East	6.9	42,313
-Stoker	6.8	85,675
-Out of the Furnace	6.8	84,615
-The F Word	6.8	51,166
-Nymphomaniac: Vol. II	6.7	60,637
-2 Guns	6.7	159,032
-RED 2	6.7	126,846
-Epic	6.7	86,662
-The Call	6.7	89,589
-Gangster Squad	6.7	175,197
-This Is the End	6.7	314,998
-The Wolverine	6.7	332,530
-Safe Haven	6.7	79,717
-Ender&apos;s Game	6.7	187,155
-Bad Words	6.7	38,994
-Escape Plan	6.7	179,996
-Bad Grandpa	6.6	78,441
-Elysium	6.6	343,046
-Insidious: Chapter 2	6.6	111,906
-Last Vegas	6.6	108,100
-Kick-Ass 2	6.6	206,012
-The Heat	6.6	134,958
-Don Jon	6.6	192,777
-Europa Report	6.5	53,264
-The Double	6.5	35,810
-Horns	6.5	56,509
-Dead Man Down	6.5	54,679
-Homefront	6.5	84,191
-Olympus Has Fallen	6.5	206,376
-Evil Dead	6.5	127,603
-The Lone Ranger	6.5	183,776
-Oculus	6.5	87,738
-Snitch	6.5	65,593
-Turbo	6.5	63,228
-Pain &amp; Gain	6.5	163,128
-Cloudy with a Chance of Meatballs 2	6.5	65,598
-Delivery Man	6.4	60,707
-Riddick	6.4	126,705
-The Last Stand	6.4	115,235
-White House Down	6.4	166,807
-The Frozen Ground	6.4	44,355
-Grudge Match	6.4	47,165
-Oz the Great and Powerful	6.4	177,008
-The Family	6.3	89,209
-Jack the Giant Slayer	6.3	107,768
-Dark Skies	6.3	58,373
-Anchorman 2: The Legend Continues	6.3	133,159
-47 Ronin	6.3	118,407
-The Internship	6.3	161,407
-Under the Skin	6.3	87,485
-Beautiful Creatures	6.2	68,756
-Lovelace	6.2	31,216
-Mama	6.2	136,992
-Hummingbird	6.2	52,571
-Broken City	6.2	64,234
-Parker	6.2	91,490
-Drinking Buddies	6.1	46,620
-Hansel &amp; Gretel: Witch Hunters	6.1	161,762
-The Zero Theorem	6.1	35,077
-The Mortal Instruments: City of Bones	6.0	108,450
-Chennai Express	6.0	37,043
-Percy Jackson: Sea of Monsters	5.9	87,754
-21 &amp; Over	5.9	61,228
-Jobs	5.9	77,938
-The Hangover Part III	5.9	227,468
-The Incredible Burt Wonderstone	5.9	61,104
-The Host	5.9	93,437
-Carrie	5.9	109,659
-G.I. Joe: Retaliation	5.8	147,793
-Planes	5.8	35,406
-Oldboy	5.8	51,874
-The Purge	5.7	144,879
-Only God Forgives	5.7	84,988
+All Is Lost	6.9	60,383
+Joe	6.9	37,077
+Stoker	6.8	85,687
+The F Word	6.8	51,177
+Out of the Furnace	6.8	84,629
+Escape Plan	6.7	180,014
+Nymphomaniac: Vol. II	6.7	60,655
+Gangster Squad	6.7	175,212
+Epic	6.7	86,666
+Safe Haven	6.7	79,732
+2 Guns	6.7	159,045
+Ender&apos;s Game	6.7	187,164
+Bad Words	6.7	38,996
+The Call	6.7	89,600
+The Wolverine	6.7	332,564
+RED 2	6.7	126,860
+This Is the End	6.7	315,046
+Last Vegas	6.6	108,104
+Elysium	6.6	343,088
+Bad Grandpa	6.6	78,444
+The Heat	6.6	134,965
+Insidious: Chapter 2	6.6	111,934
+Don Jon	6.6	192,791
+Kick-Ass 2	6.6	206,042
+Dead Man Down	6.5	54,687
+Pain &amp; Gain	6.5	163,140
+Cloudy with a Chance of Meatballs 2	6.5	65,608
+Snitch	6.5	65,597
+Evil Dead	6.5	127,625
+Horns	6.5	56,521
+Oculus	6.5	87,760
+Turbo	6.5	63,235
+Europa Report	6.5	53,272
+Homefront	6.5	84,202
+Olympus Has Fallen	6.5	206,400
+The Lone Ranger	6.5	183,787
+The Double	6.5	35,815
+The Frozen Ground	6.4	44,357
+Oz the Great and Powerful	6.4	177,018
+White House Down	6.4	166,827
+Grudge Match	6.4	47,171
+Riddick	6.4	126,707
+Delivery Man	6.4	60,714
+The Last Stand	6.4	115,243
+Under the Skin	6.3	87,505
+Jack the Giant Slayer	6.3	107,775
+The Internship	6.3	161,416
+47 Ronin	6.3	118,434
+Anchorman 2: The Legend Continues	6.3	133,171
+The Family	6.3	89,221
+Dark Skies	6.3	58,384
+Broken City	6.2	64,239
+Parker	6.2	91,498
+Hummingbird	6.2	52,579
+Mama	6.2	137,013
+Beautiful Creatures	6.2	68,760
+Lovelace	6.2	31,220
+Hansel &amp; Gretel: Witch Hunters	6.1	161,773
+Drinking Buddies	6.1	46,629
+The Zero Theorem	6.1	35,087
+Chennai Express	6.0	37,049
+The Mortal Instruments: City of Bones	6.0	108,460
+Carrie	5.9	109,674
+The Hangover Part III	5.9	227,500
+Jobs	5.9	77,947
+Percy Jackson: Sea of Monsters	5.9	87,759
+The Host	5.9	93,449
+21 &amp; Over	5.9	61,238
+The Incredible Burt Wonderstone	5.9	61,112
+Oldboy	5.8	51,886
+Planes	5.8	35,410
+G.I. Joe: Retaliation	5.8	147,799
+Only God Forgives	5.7	85,013
 I Give It a Year	5.7	30,425
-Identity Thief	5.7	99,029
-The Big Wedding	5.6	37,995
-The Bling Ring	5.6	68,307
-Runner Runner	5.6	52,619
-R.I.P.D.	5.6	93,046
-Machete Kills	5.6	60,128
-Dhoom:3	5.4	34,537
-Grown Ups 2	5.4	109,498
-A Good Day to Die Hard	5.3	167,242
-The Colony	5.3	35,490
-The Counselor	5.3	81,850
-A Haunted House	5.1	35,088
-After Earth	4.9	160,412
-Texas Chainsaw 3D	4.8	35,658
-Scary Movie 5	3.5	50,947
-Celal ile Ceren	2.5	36,860
+The Purge	5.7	144,922
+Identity Thief	5.7	99,037
+Runner Runner	5.6	52,623
+The Bling Ring	5.6	68,311
+The Big Wedding	5.6	37,996
+Machete Kills	5.6	60,136
+R.I.P.D.	5.6	93,058
+Grown Ups 2	5.4	109,512
+Dhoom:3	5.4	34,538
+The Counselor	5.3	81,861
+The Colony	5.3	35,493
+A Good Day to Die Hard	5.3	167,260
+A Haunted House	5.1	35,093
+After Earth	4.9	160,419
+Texas Chainsaw 3D	4.8	35,667
+Scary Movie 5	3.5	50,958
+Celal ile Ceren	2.5	36,863

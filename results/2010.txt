@@ -1,0 +1,162 @@
+Udaan	8.4	30,328
+Toy Story 3	8.3	554,476
+Incendies	8.2	82,936
+How to Train Your Dragon	8.2	494,328
+Shutter Island	8.1	801,956
+Tropa de Elite 2: O Inimigo Agora &#xE9; Outro	8.1	67,484
+Black Swan	8.0	558,096
+The King&apos;s Speech	8.0	512,288
+My Name Is Khan	8.0	71,803
+The Fighter	7.9	279,289
+Ajeossi	7.9	44,145
+Ang-ma-reul bo-at-da	7.8	72,673
+Tangled	7.8	299,706
+The Social Network	7.7	486,656
+Kick-Ass	7.7	441,140
+Flipped	7.7	61,822
+True Grit	7.7	244,323
+Kari-gurashi no Arietti	7.7	54,529
+H&#xE6;vnen	7.7	33,101
+Harry Potter and the Deathly Hallows: Part 1	7.7	333,891
+Despicable Me	7.7	391,937
+J&#xFB;san-nin no shikaku	7.6	51,199
+Yip Man 2	7.6	71,819
+The Town	7.6	283,714
+127 Hours	7.6	282,423
+Tucker and Dale vs Evil	7.6	130,119
+Biutiful	7.5	69,889
+Scott Pilgrim vs. the World	7.5	278,190
+The Next Three Days	7.4	148,062
+Blue Valentine	7.4	143,632
+Animal Kingdom	7.3	46,183
+The Way Back	7.3	88,343
+Four Lions	7.3	57,018
+Submarine	7.3	67,234
+Megamind	7.3	175,505
+Conviction	7.2	35,233
+Remember Me	7.2	115,266
+Let Me In	7.2	93,485
+The Ghost Writer	7.2	133,685
+It&apos;s Kind of a Funny Story	7.2	108,044
+Winter&apos;s Bone	7.2	112,790
+Never Let Me Go	7.2	111,265
+Beginners	7.2	74,249
+RED	7.1	241,436
+Unthinkable	7.1	72,417
+The Kids Are All Right	7.1	111,630
+Hesher	7.1	44,303
+Easy A	7.1	280,982
+Trolljegeren	7.0	54,985
+Iron Man 2	7.0	530,277
+Legend of the Guardians: The Owls of Ga&apos;Hoole	7.0	66,417
+Trust	7.0	34,680
+Buried	7.0	120,221
+Rabbit Hole	7.0	40,931
+Green Zone	6.9	111,463
+The Book of Eli	6.9	230,458
+The Debt	6.9	55,885
+Wild Target	6.9	30,336
+Fair Game	6.8	38,936
+Unstoppable	6.8	151,780
+Super	6.8	62,478
+The Company Men	6.8	37,033
+Tron: Legacy	6.8	266,490
+The A-Team	6.8	213,348
+Insidious	6.8	207,079
+Robin Hood	6.7	213,890
+The Other Guys	6.7	192,099
+Machete	6.7	167,131
+Love &amp; Other Drugs	6.7	145,260
+The Runaways	6.6	39,620
+Edge of Darkness	6.6	76,145
+Due Date	6.6	275,713
+Last Night	6.6	39,720
+Life as We Know It	6.6	97,027
+Prince of Persia: The Sands of Time	6.6	225,080
+From Paris with Love	6.5	98,578
+Charlie St. Cloud	6.5	47,993
+Faster	6.5	81,456
+The Expendables	6.5	273,488
+Stake Land	6.5	34,724
+Hereafter	6.5	80,731
+Letters to Juliet	6.5	75,703
+Morning Glory	6.5	59,588
+The Crazies	6.5	94,179
+Alice in Wonderland	6.5	311,298
+Predators	6.4	172,999
+Monsters	6.4	76,396
+Burlesque	6.4	62,369
+She&apos;s Out of My League	6.4	102,678
+Hot Tub Time Machine	6.4	140,268
+Leap Year	6.4	72,281
+Centurion	6.4	65,422
+The Losers	6.4	75,371
+Black Death	6.4	36,239
+The Experiment	6.4	42,247
+Get Him to the Greek	6.4	148,580
+Shrek Forever After	6.4	140,590
+Salt	6.4	248,254
+Everything Must Go	6.4	40,755
+Devil	6.3	105,458
+You Will Meet a Tall Dark Stranger	6.3	36,731
+The Chronicles of Narnia: The Voyage of the Dawn Treader	6.3	108,072
+Repo Men	6.3	88,452
+Date Night	6.3	129,081
+Dear John	6.3	106,485
+Cyrus	6.3	30,271
+Wall Street: Money Never Sleeps	6.3	84,916
+Knight and Day	6.3	149,904
+Going the Distance	6.3	50,897
+I Spit on Your Grave	6.3	57,297
+All Good Things	6.3	41,949
+The American	6.3	80,014
+Somewhere	6.3	36,178
+The Karate Kid	6.2	121,577
+Frozen	6.2	53,462
+Step Up 3D	6.2	47,865
+Diary of a Wimpy Kid	6.2	32,453
+Takers	6.2	47,423
+London Boulevard	6.2	40,636
+The Sorcerer&apos;s Apprentice	6.1	125,627
+Greenberg	6.1	30,033
+The Switch	6.1	78,968
+13	6.1	34,745
+Grown Ups	6.0	183,739
+The Tourist	6.0	179,019
+Resident Evil: Afterlife	5.9	133,042
+Dinner for Schmucks	5.9	81,097
+Percy Jackson &amp; the Olympians: The Lightning Thief	5.9	142,999
+The Last Song	5.8	63,049
+The Wolfman	5.8	90,113
+You Again	5.8	41,690
+Clash of the Titans	5.8	231,615
+Eat Pray Love	5.7	64,565
+Paranormal Activity 2	5.7	83,124
+Valentine&apos;s Day	5.7	96,307
+Don&apos;t Be Afraid of the Dark	5.6	41,087
+Cop Out	5.6	75,867
+Saw 3D	5.6	68,974
+The Ward	5.6	34,465
+The Last Exorcism	5.6	41,910
+Death at a Funeral	5.6	36,495
+MacGruber	5.5	36,332
+Piranha 3D	5.5	73,254
+The Bounty Hunter	5.5	97,900
+Little Fockers	5.5	86,524
+When in Rome	5.5	51,509
+The Spy Next Door	5.4	30,490
+How Do You Know	5.4	35,436
+Stone	5.4	35,248
+Killers	5.4	73,722
+The Back-up Plan	5.3	41,127
+A Nightmare on Elm Street	5.2	76,149
+Srpski film	5.2	40,524
+Legion	5.2	81,633
+Tooth Fairy	5.0	30,875
+The Twilight Saga: Eclipse	4.9	186,530
+Gulliver&apos;s Travels	4.9	53,693
+Jonah Hex	4.7	46,196
+Skyline	4.4	76,709
+Sex and the City 2	4.3	60,257
+The Last Airbender	4.2	120,062
+Vampires Suck	3.5	39,414

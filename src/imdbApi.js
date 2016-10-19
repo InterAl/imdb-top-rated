@@ -71,7 +71,10 @@ function fetchAllTitles(yearStart, yearEnd) {
         }
     }
 
-    return Q.all(promises).then(() => years);
+    return Q.allSettled(promises).then(result => {
+        _.each(result, r => r.state === 'rejected' ? console.log('rejected') : null);
+        return years;
+    });
 }
 
 function extractRows(html) {

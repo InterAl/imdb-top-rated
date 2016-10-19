@@ -1,54 +1,54 @@
-Airlift	8.4	33,901
-Zootopia	8.1	208,487
-Deadpool	8.1	523,278
-Captain America: Civil War	8.0	331,925
-Sully	7.9	31,699
-Finding Dory	7.7	72,413
-The Conjuring 2	7.6	101,659
-The Jungle Book	7.6	146,442
-Me Before You	7.5	77,626
-Eddie the Eagle	7.4	40,241
-Don&apos;t Breathe	7.4	41,989
-The Nice Guys	7.4	108,257
-Star Trek Beyond	7.3	94,258
-10 Cloverfield Lane	7.3	145,483
-13 Hours	7.3	57,207
-X-Men: Apocalypse	7.2	200,347
-Kung Fu Panda 3	7.2	72,630
-The Magnificent Seven	7.1	31,643
-Warcraft	7.1	147,771
-Jason Bourne	6.9	81,613
-The Finest Hours	6.8	33,144
-Batman v Superman: Dawn of Justice	6.8	409,102
-Midnight Special	6.7	39,003
-Sausage Party	6.7	34,688
-The Secret Life of Pets	6.7	57,874
-Hush	6.6	30,778
-Money Monster	6.6	46,922
-Now You See Me 2	6.6	104,839
-Suicide Squad	6.6	236,391
-Lights Out	6.5	34,525
-The Legend of Tarzan	6.4	73,654
-The Shallows	6.4	49,679
-Central Intelligence	6.4	60,057
-Hail, Caesar!	6.4	69,002
-Angry Birds	6.3	39,811
-Triple 9	6.3	37,991
-Alice Through the Looking Glass	6.3	33,169
-Grimsby	6.2	48,734
-The Huntsman: Winter&apos;s War	6.1	50,403
-How to Be Single	6.1	45,360
-Teenage Mutant Ninja Turtles: Out of the Shadows	6.1	41,998
-Dirty Grandpa	6.0	57,242
-The Boy	6.0	40,586
-The Purge: Election Year	6.0	34,683
-London Has Fallen	5.9	81,158
-Ride Along 2	5.9	31,721
-Allegiant	5.8	53,866
-Neighbors 2: Sorority Rising	5.8	52,432
-Gods of Egypt	5.5	58,472
-Independence Day: Resurgence	5.4	84,285
-Ghostbusters	5.4	102,266
-The 5th Wave	5.2	61,992
-Zoolander 2	4.8	39,260
-The Promise	4.0	86,457
+Airlift	8.4	33,915
+Zootopia	8.1	208,676
+Deadpool	8.1	523,560
+Captain America: Civil War	8.0	332,186
+Sully	7.9	31,807
+Finding Dory	7.7	72,490
+The Conjuring 2	7.6	101,842
+The Jungle Book	7.6	146,585
+Me Before You	7.5	77,775
+Don&apos;t Breathe	7.4	42,696
+Eddie the Eagle	7.4	40,274
+The Nice Guys	7.4	108,492
+10 Cloverfield Lane	7.3	145,589
+13 Hours	7.3	57,277
+Star Trek Beyond	7.3	94,862
+X-Men: Apocalypse	7.2	200,639
+Kung Fu Panda 3	7.2	72,666
+The Magnificent Seven	7.1	31,878
+Warcraft	7.1	147,987
+Jason Bourne	6.9	81,722
+Batman v Superman: Dawn of Justice	6.8	409,258
+The Finest Hours	6.8	33,178
+Sausage Party	6.7	34,776
+Midnight Special	6.7	39,050
+The Secret Life of Pets	6.7	58,015
+Now You See Me 2	6.6	105,096
+Suicide Squad	6.6	236,870
+Money Monster	6.6	47,033
+Hush	6.6	30,845
+Lights Out	6.5	34,831
+Hail, Caesar!	6.4	69,039
+Central Intelligence	6.4	60,228
+The Legend of Tarzan	6.4	73,884
+The Shallows	6.4	49,837
+Angry Birds	6.3	39,877
+Triple 9	6.3	38,022
+Alice Through the Looking Glass	6.3	33,287
+Grimsby	6.2	48,778
+Teenage Mutant Ninja Turtles: Out of the Shadows	6.1	42,092
+The Huntsman: Winter&apos;s War	6.1	50,463
+How to Be Single	6.1	45,401
+The Purge: Election Year	6.0	34,798
+Dirty Grandpa	6.0	57,280
+The Boy	6.0	40,607
+Ride Along 2	5.9	31,752
+London Has Fallen	5.9	81,213
+Neighbors 2: Sorority Rising	5.8	52,534
+Allegiant	5.8	53,925
+Gods of Egypt	5.5	58,504
+Independence Day: Resurgence	5.4	84,604
+Ghostbusters	5.4	102,635
+The 5th Wave	5.2	62,040
+Zoolander 2	4.8	39,298
+The Promise	4.0	86,460
